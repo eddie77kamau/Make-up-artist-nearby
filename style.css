@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+header {
+    background-image: url('makeup-background.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+footer {
+    background-color: #343a40;
+    color: white;
+}
